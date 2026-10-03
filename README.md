@@ -2,7 +2,6 @@
 
 Final-year Bioinformatics student interested in computational biology, biological data analysis, and building practical software-driven solutions for biological problems.
 
-I am currently developing my technical portfolio through bioinformatics projects, data analysis, software development, and my Final Year Project.
 
 ## Selected Projects
 
