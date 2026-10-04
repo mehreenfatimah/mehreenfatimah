@@ -23,6 +23,11 @@ A multi-layered analysis of the MTOR gene covering sequence information, genetic
 ### BuzzBridge — OOP Business & Community Directory
 A C++ console application demonstrating object-oriented programming concepts including inheritance, polymorphism, STL containers, file handling, and business-directory workflows.
 
+### AI Fever Classifier — Collaborative ML Project
+FastAPI-based machine learning prototype for classifying fever-related conditions from symptoms, exposure factors, temperature patterns, and optional lab values. I contributed to backend input validation, user-facing safety improvements, and API reliability/testing.
+
+**Repo:** https://github.com/sheryarkayani/AIFeverClassifier
+
 ## Technical Skills
 
 ### Programming & Development
